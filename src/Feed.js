@@ -88,3 +88,6 @@ function Feed() {
 }
 
 export default Feed;
+// db posts and input is connected with snapshot
+
+
