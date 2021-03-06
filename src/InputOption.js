@@ -11,3 +11,5 @@ function InputOption({ Icon, title, color }) {
 }
 
 export default InputOption;
+// input and header styled
+
