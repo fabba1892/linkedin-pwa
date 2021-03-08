@@ -11,5 +11,4 @@ function InputOption({ Icon, title, color }) {
 }
 
 export default InputOption;
-// input and header styled
-
+// Header(search/hpme etc Icon ) and Input Icon props created/styled  
