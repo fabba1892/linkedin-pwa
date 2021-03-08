@@ -6,3 +6,6 @@ export default configureStore({
     user: userReducer,
   },
 });
+
+// cretaed userSlice for the datalayer
+
