@@ -49,3 +49,5 @@ function Sidebar() {
 
 export default Sidebar;
 // recentItems
+// user info populated in fronte & letter if no image
+
