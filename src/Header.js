@@ -49,4 +49,6 @@ export default Header;
 // npm i material-ui
 // Header(search/hpme etc Icon ) and Input created/styled  
 // logout onclick for avatar working now
+// get the user prof & pic , descriptn from db
+
 

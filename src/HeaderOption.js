@@ -18,3 +18,5 @@ function HeaderOption({ avatar, Icon, title, onClick }) {
 }
 
 export default HeaderOption;
+// get the user prof & pic , descriptn from db/UserSlice
+
