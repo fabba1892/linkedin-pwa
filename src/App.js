@@ -46,5 +46,7 @@ function App() {
 }
 
 export default App;
+// stay logged in & authorized even when you refresh
+
 // login compnnt with redux functionality and other compoenents
 
