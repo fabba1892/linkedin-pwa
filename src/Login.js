@@ -112,6 +112,8 @@ export default Login;
 // dipatch function set all the data to the datalayer
 // register functtionaloyt also updated
 
+// login/signIn with info url, and details
+
 
 
 
