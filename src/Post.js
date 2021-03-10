@@ -33,3 +33,5 @@ const Post = forwardRef(({ name, description, message, photoUrl }, ref) => {
 });
 
 export default Post;
+// so now all user have their owen proPic avatar
+
