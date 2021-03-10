@@ -36,3 +36,5 @@ function Widgets() {
 }
 
 export default Widgets;
+// widgets with icons and artciles areas is created & styled 
+
