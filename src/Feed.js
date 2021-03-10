@@ -81,8 +81,7 @@ function Feed() {
             message={message}
             photoUrl={photoUrl}
           />
-       // updated the user & message details in Feed also
- ))}
+        ))}
       </FlipMove>
     </div>
   );
@@ -91,6 +90,7 @@ function Feed() {
 export default Feed;
 // db posts and input is connected with snapshot
 // refresh it conects bck to db nd shw msg agn in order display
+// updated the user & message details in Feed also
 
 
 
