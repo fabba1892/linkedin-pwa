@@ -34,4 +34,6 @@ const Post = forwardRef(({ name, description, message, photoUrl }, ref) => {
 
 export default Post;
 // so now all user have their owen proPic avatar
+// npm i flip-move & wrapped the app lin forward ref
+// 
 
