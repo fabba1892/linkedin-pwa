@@ -91,6 +91,8 @@ export default Feed;
 // db posts and input is connected with snapshot
 // refresh it conects bck to db nd shw msg agn in order display
 // updated the user & message details in Feed also
+// wrap post in flipmove & import at top
+
 
 
 
